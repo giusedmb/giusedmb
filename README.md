@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliSaverio/MicaelliSaverio/master/Assets/Header.svg" alt="GitHub Profile Header">
-</div>
-
 <h1 align="center">Hi there, I'm Giuseppe! 👋</h1>
 
 <p align="center">
@@ -50,21 +46,6 @@ During my studies, I've had the opportunity to work on various challenging proje
 
 I'm always expanding my knowledge and exploring new areas in computer science!
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Giuseppe's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=nord&hide_border=true" alt="Giuseppe's GitHub Streak" />
-</p>
-
----
-
 <p align="center">
   Thanks for visiting my profile! Feel free to connect or explore my repositories.
 </p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-GitHub-Profile/main/profile-green.svg" alt="GitHub Footer Animation">
-</div>
